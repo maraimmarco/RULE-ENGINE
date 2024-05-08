@@ -1,0 +1,78 @@
+PRODUCTNAME,FINALPRICE
+Wine - White Pinot Grigio,624.6
+Pepper - Red Thai,115.9
+Wine - Chardonnay Mondavi,1195.36
+External Supplier,122.21
+Beans - Black Bean Preserved,1763.33
+Beef - Inside Round,2005.72
+Bread - Calabrese Baguette,101.2
+Zucchini - Mini Green,1871.06
+Eggs - Extra Large,630.42
+Pork - Liver,3086.75
+Sesame Seed,250.76
+Tuna - Yellowfin,1567.22
+Wine - Magnotta - Belpaese,720.67
+Bar Bran Honey Nut,178.34
+Cake - French Pear Tart,2406.43
+Carbonated Water - Wildberry,38.62
+Pork - Ham Virginia,2711.55
+Wine - Prosecco Valdobienne,2653.32
+Lettuce - Boston Bib - Organic,520.72
+Wine - Marlbourough Sauv Blanc,607.96
+Longos - Chicken Cordon Bleu,3088.64
+Beef Striploin Aaa,699.13
+Sauce - Oyster,111.88
+Barley - Pearl,270.69
+Cheese Cloth No 60,671.98
+Cut Wakame - Hanawakaba,3045.44
+Kolrabi,269.16
+Coffee - Espresso,638.91
+Beef - Kindney Whole,61.21
+Honey - Comb,277.99
+Soup Campbells Turkey Veg.,1.4
+Syrup - Monin - Blue Curacao,362.02
+Coffee Beans - Chocolate,395.96
+Wine - Vidal Icewine Magnotta,3371.66
+Island Oasis - Peach Daiquiri,1947.58
+Lychee,64.32
+Contreau,2155.06
+Cheese - Taleggio D.o.p.,151.83
+Persimmons,1052.15
+Towels - Paper / Kraft,114.65
+Pastry - Cheese Baked Scones,1991.25
+Honey - Liquid,1663.36
+Veal - Bones,595.8
+Beets,1336.23
+Wine - Saint Emilion Calvet,142.02
+Coffee - Ristretto Coffee Capsule,2471.04
+Beef - Tenderlion Center Cut,1338.36
+Pails With Lids,743.66
+Wine - Cousino Macul Antiguas,70.94
+Puree - Mango,1575.72
+Soup - Campbells Chili,501.66
+Table Cloth 91x91 Colour,125.91
+Apron,795.38
+Chocolate - Mi - Amere Semi,1227.8
+Tomatoes - Plum Canned,634.73
+Oysters - Smoked,852.47
+Pork - Chop Frenched,271.94
+Pastry - Baked Cinnamon Stick,492.13
+Bread Foccacia Whole,159.12
+Tuna - Loin,163.86
+Corn Syrup,846.94
+Wine - Bouchard La Vignee Pinot,618.3
+Lamb - Pieces Diced,427.05
+Cocoa Butter,300.94
+Juice - Apple 284ml,49.26
+Tomato - Plum With Basil,213.45
+Wine - Magnotta White,519
+Veal - Knuckle,1736.4
+Sugar - Brown,2104.76
+Mix - Cocktail Ice Cream,1275.89
+Bread Base - Gold Formel,329.04
+Salmon - Whole 4 - 6 Pounds,1607.57
+Lettuce - Radicchio,2543.25
+Wood Chips - Regular,3095.15
+Pails With Lids,83.7
+Strawberries,279.89
+Bread - Pita,206.32
