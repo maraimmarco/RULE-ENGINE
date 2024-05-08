@@ -1,2 +1,0 @@
-create table SCALA_TABLE(productName varchar2(200),finalprice number(12,2));
-select * from SCALA_TABLE;
